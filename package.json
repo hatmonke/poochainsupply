@@ -2,9 +2,9 @@
   "name": "poochainsupply",
   "version": "1.0.0",
   "description": "",
-  "main": "source/index.ts",
+  "main": "source/server.ts",
   "scripts": {
-      "dev": "nodemon source/index.ts",
+      "dev": "nodemon source/server.ts",
       "build": "tsc"
   },
   "author": "",
